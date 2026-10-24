@@ -324,7 +324,7 @@ useEffect(() => {
         <div className="hero-copy">
           <div className="eyebrow">
             <span className="status-dot" />
-            AI / ML STUDENT · MYSORE, INDIA
+            AI / ML &amp; CS Student · BANGALORE, INDIA
           </div>
 
           
@@ -341,8 +341,8 @@ useEffect(() => {
 
 
           <p className="hero-description">
-            I'm Abhay Varun S., an AI &amp; Machine Learning student at
-            Mysore University School of Engineering. I’m interested in
+            I'm Abhay Varun S., an CS &amp; AI / ML student at
+            University of Liverpool. I’m interested in
             research-grade computer vision for agricultural automation,
             quality grading, and autonomous perception.
           </p>
